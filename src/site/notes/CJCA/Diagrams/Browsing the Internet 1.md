@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cjca/diagrams/browsing-the-internet-1/","tags":["excalidraw"],"dg-note-properties":{"excalidraw-plugin":"parsed","tags":["excalidraw"]}}
+{"dg-publish":true,"permalink":"/cjca/diagrams/browsing-the-internet-1/","tags":["excalidraw"],"created":"2026-03-24T07:44:42.845+00:00","dg-note-properties":{"excalidraw-plugin":"parsed","tags":["excalidraw"]}}
 ---
 
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'

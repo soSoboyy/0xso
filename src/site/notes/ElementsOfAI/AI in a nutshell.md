@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/elements-of-ai/ai-in-a-nutshell/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/elements-of-ai/ai-in-a-nutshell/","created":"2025-06-04T17:29:42.828+01:00","dg-note-properties":{}}
 ---
 
 
