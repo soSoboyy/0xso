@@ -17,7 +17,7 @@
 ### Taxonomy of AI:
 A taxonomy is a scheme for classifying many things that may be special cases of one another.
 CS --> AI --> ML --> DL --> Data Science
-![[attachments/Screenshot 2025-06-20 at 10.21.30.png \| 200]]
+![[attachments/Screenshot 2025-06-20 at 10.21.30.png \|attachments/Screenshot 2025-06-20 at 10.21.30.png ]]
 The taxonomy scheme is composed of Euler diagrams overlapping with each others, similar to what happens with CS, AI, ML, DL, and DS
 
 ==Key terminology:==
@@ -33,7 +33,7 @@ The taxonomy scheme is composed of Euler diagrams overlapping with each others, 
 
 #### Inference: Using a linear model to make predictions
 
-Linear model : ![[attachments/Screenshot 2025-06-04 at 17.35.06.png \| 150]]
+Linear model : ![[attachments/Screenshot 2025-06-04 at 17.35.06.png \|attachments/Screenshot 2025-06-04 at 17.35.06.png ]]
 
 When we feed data to a ML algorithm, the quality of our prediction is determined by how well the parameters are aligned with reality.
 ### How to pick parameters for accurate predictions?
