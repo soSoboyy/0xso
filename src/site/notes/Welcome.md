@@ -254,3 +254,39 @@ The following are also some of the covered topics:
 ```
 
 And more...
+# NOT RELEVANT
+What is a foreign key?
+
+What does DISTINCT do in a SQL query?
+
+What are the two key differences between languages like PowerShell, Python and VBS?
+
+What is a view in SQL?
+
+In what instance would you use the get-member cmdlet?
+
+What is the Pipeline in PowerShell?
+
+Where would you go to collect logs for an application crash?
+
+Where would you look to find active processes in a windows machine?
+
+How would you identify if a server is active and listening in a specific port?
+
+What command would you use to identify how many hops packets go through in a network?
+
+(linux) What command do you run to view available disk space?
+
+(linux) What command would you use to view the memory?
+
+Scenario: (Windows) You encounter a service whose startup type is set to automatic, but the service is not running and when started, it stops. How would you go about troubleshooting this and where would you go to start troubleshooting?
+
+--- 
+Expect questions based on the skills listed in the CV:
+
+- Describe at least two logs of a RDBMS.
+- How to assess the code of a stored procedure on SQL Server?
+- Basically, how the AD works?
+- Given some repetitive tasks to be automated, how would you structure a PowerShell script to do the job?
+- How do you check the amount of free memory on a Linux system?
+- How to you add a static route on a Linux server?
